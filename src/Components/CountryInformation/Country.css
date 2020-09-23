@@ -1,0 +1,19 @@
+.country{
+    width: 500px;
+    border: 5px solid gray;
+    margin: 20px 500px;
+    text-align: center;
+    padding: 10px; 
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 2px gray; 
+    background-color: #282c34; 
+    color: white; 
+    display: flex;
+}
+.information{
+    width: 350px;
+}
+.flag img{
+    height: 150px;
+    padding-top: 55px;
+}
